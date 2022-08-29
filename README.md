@@ -1,4 +1,4 @@
-# DT_and_Ensemble_project
+# Talking_data_fraud_detection
 
 Project on Bagging and Boosting ensemble model:
 The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not (1/0):
